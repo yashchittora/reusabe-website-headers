@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+:root {
+    --main-pink: rgb(241, 137, 187);
+    --main-grey: #24252a;
+    --main-white: aliceblue;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 100px;
+    height: 100px;
+    font-family: Montserrat;
+    background: var(--main-grey);
+}
+
+.logo {
+    height: 70px;
+    width: 70px;
+    border-radius: 100px;
+}
+
+header ul{
+    list-style: none;
+}
+
+header ul li {
+    display: inline-block;
+    padding: 10px 20px;
+}
+
+header ul li a{
+    color: var(--main-white);
+    font-weight: 600;
+    text-decoration: none;
+    transition: all 0.3s ease 0s;
+}
+
+.link:hover {
+    color: var(--main-pink);
+}
+
+.current {
+    color: var(--main-pink)
+}
+
+.button {
+    padding: 7px 10px;
+    border-style: solid;
+    border-radius: 50px;
+    border-width: 2px;
+    border-color: var(--main-pink);
+    text-decoration: none;
+    font-weight: 500;
+    color: var(--main-white);
+    transition: all 0.3s ease 0s;
+}
+
+.button:hover,
+.current-button {
+    background-color: var(--main-pink);
+    color: var(--main-grey);
+}
+
+/* .current-button will be used in the contact page's header's HTML */
