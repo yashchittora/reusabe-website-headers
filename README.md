@@ -14,4 +14,11 @@ These are made with HTML and CSS ; some of them include javascript too.
 
 ## [Header 1](https://github.com/yashchittora/reusabe-website-headers/tree/main/Header%201)
 
-<img class="logo" src="https://raw.githubusercontent.com/yashchittora/reusabe-website-headers/main/Header%201/Header%201.gif" alt="Header 1 Image" >
+<img class="logo" src="https://raw.githubusercontent.com/yashchittora/reusabe-website-headers/main/Header%201/Header%201.gif" alt="Header 1 Gif" >
+
+<br>
+
+## [Header 2](https://github.com/yashchittora/reusabe-website-headers/tree/main/Header%202)
+
+<img class="logo" src="https://raw.githubusercontent.com/yashchittora/reusabe-website-headers/main/Header%202/Header%202.gif" alt="Header 2 Gif" >
+
