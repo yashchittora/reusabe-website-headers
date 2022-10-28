@@ -25,3 +25,5 @@ These are made with HTML and CSS ; some of them include javascript too.
 
 ### *Feel free to use and contribute*
 
+
+<a href="https://www.buymeacoffee.com/yashchittora" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="width: 150px !important;" ></a>
